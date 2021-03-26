@@ -1,6 +1,6 @@
 # Crowd Counting with Convolutional Neural Network Model
 
-This item is used to analyze and predict the number of people in the given image. It can be used to analyze the number of people in a mall in order to prevent overcrowding and avoid mishaps from taking place.
+This project is used to analyze and predict the number of people in the given image. It can be used to analyze the number of people in a mall in order to prevent overcrowding and avoid mishaps from taking place.
 
 ## Data Source
 
