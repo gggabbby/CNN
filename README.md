@@ -30,11 +30,14 @@ The data source for this project comes from the crowd counting data set on the k
 - Evaluation
 
 <img src="images/cnn-loss&val_loss.jpg" width=400>
-
-<img src="images/cnn-loss&val_loss.jpg" width=350>
 The blue line represents the performance of the model in the training data, and the orange line represents the training results of the model in the test data. It can be known that the model successfully achieved the learning function during training, and after 100 epochs, the training loss and testing loss were reduced to about 49.
-
+<br />
 <img src="images/CNN-residuals.jpg" width=400>
 The residuals are relatively normally distributed for both models, with a mean around 0. It accurately predicts 31 images. For the remaining pictures without accurate prediction of count, the error between the value of count predicted by this model and the actual value is mostly relatively small.
 
+## Prediction result
+
+<img src="images/cnn-result-plt-1.jpg" width=350>  <img src="images/cnn-result-plt-2.jpg" width=350>
+<br />
+<img src="images/cnn-result-plt-3.jpg" width=350>  <img src="images/cnn-result-plt-4.jpg" width=350>
 
