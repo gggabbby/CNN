@@ -20,9 +20,7 @@ The data source for this project comes from the crowd counting data set on the k
 ## CNN
 
 - Learning rate vs Loss
-<img src="images/cnn-LR_32.png" width=250>
-<img src="images/cnn-LR_64.png" width=250>
-<img src="images/cnn-LR_128.png" width=250>
+<img src="images/cnn-LR_32.png" width=250> <img src="images/cnn-LR_64.png" width=250> <img src="images/cnn-LR_128.png" width=250>
 
 
 
