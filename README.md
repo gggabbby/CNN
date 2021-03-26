@@ -8,15 +8,21 @@ The data source for this project comes from the crowd counting data set on the k
 
 - The images from the dataset:
 
-<img src="images/image_sample.png" width=950>
+<img src="images/image_sample.png" width=800>
 
 - Distribution of labels
-<img src="images/label-distribution.png" width=600>
+<img src="images/label-distribution.png" width=400>
 
 - Use the link below to visit the data source:
 
 [crowd counting](https://www.kaggle.com/fmena14/crowd-counting)
 
 ## CNN
+
+- Learning rate vs Loss
+<img src="images/cnn-LR_32.png" width=250>
+<img src="images/cnn-LR_64.png" width=250>
+<img src="images/cnn-LR_128.png" width=250>
+
 
 
