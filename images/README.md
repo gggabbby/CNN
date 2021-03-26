@@ -1,1 +1,3 @@
-this is a test
+## Folder Introduction
+- This folder stores the images of this crowd counting project.
+
